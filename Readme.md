@@ -3,7 +3,7 @@ which I am using a lot in my personal projects as it's much easier to handle usi
 and run the code, you should get konwersja.txt with your model converted.
 
 It supports:
-Materials
-Normals
-Tangent
+Materials,
+Normals,
+Tangent,
 Uvs
