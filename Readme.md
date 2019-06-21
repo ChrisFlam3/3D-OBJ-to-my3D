@@ -5,5 +5,5 @@ and run the code, you should get konwersja.txt with your model converted.
 It supports:
 Materials,
 Normals,
-Tangent,
+Tangents,
 Uvs
