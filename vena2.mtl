@@ -1,0 +1,30 @@
+# 3ds Max Wavefront OBJ Exporter v0.97b - (c)2007 guruware
+# File Created: 31.03.2016 16:23:03
+
+newmtl Bark
+	Ns 2048.00000
+	Ni 1.50000
+	d 1.00000
+	Tr 0.00000
+	Tf 1.00000 1.00000 1.00000 
+	illum 2
+	Ka 0.39216 0.39216 0.39216
+	Kd 1.00000 1.00000 1.00000
+	Ks 0.00000 0.00000 0.00000
+	Ke 0.00000 0.00000 0.00000
+	map_Ka C:\Users\Krzysiek\Desktop\CL13_Pinus_muricata_Bishop_Pine_OBJ\Models\CL13brk.tif
+	map_Kd C:\Users\Krzysiek\Desktop\CL13_Pinus_muricata_Bishop_Pine_OBJ\Models\CL13brk.tif
+
+newmtl Needle
+	Ns 2048.00000
+	Ni 1.50000
+	d 1.00000
+	Tr 0.00000
+	Tf 1.00000 1.00000 1.00000 
+	illum 2
+	Ka 0.39216 0.39216 0.39216
+	Kd 1.00000 1.00000 1.00000
+	Ks 0.00000 0.00000 0.00000
+	Ke 0.00000 0.00000 0.00000
+	map_Ka C:\Users\Krzysiek\Desktop\CL13_Pinus_muricata_Bishop_Pine_OBJ\Models\CL13ned.tif
+	map_Kd C:\Users\Krzysiek\Desktop\CL13_Pinus_muricata_Bishop_Pine_OBJ\Models\CL13ned.tif
